@@ -49,3 +49,7 @@ exported_model*/
 *.idx
 *.gz
 report/*/*.pdf
+
+# VSCode setting files
+.vscode
+.vscode/settings.json

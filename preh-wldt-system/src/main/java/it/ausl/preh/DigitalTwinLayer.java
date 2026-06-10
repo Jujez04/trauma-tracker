@@ -1,10 +1,9 @@
 package it.ausl.preh;
 
 /**
- * Hello world!
- *
+ * 
  */
-public class App 
+public class DigitalTwinLayer 
 {
     public static void main( String[] args )
     {
